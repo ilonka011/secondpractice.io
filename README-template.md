@@ -19,7 +19,7 @@ This is one of the newbie-level projects offered for free on the Fronted Mentor 
 
 ### Screenshot
 
-(./screenshot.jpg)
+https://github.com/ilonka011/secondpractice.io/blob/main/Screen%20Shot%202022-11-10%20at%2010.11.10%20AM.png
 
 ### Links
 
